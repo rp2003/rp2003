@@ -62,12 +62,12 @@
 
 ## 🧠 Concepts & Methodologies  
 <p align="center">
-- System Programming (Linux)
-- REST API Development  
-- Responsive Design & UI Principles  
-- Unit & Integration Testing  
+* System Programming (Linux)<br>
+- REST API Development  <br>
+- Responsive Design & UI Principles  <br>
+- Unit & Integration Testing  <br>
 - Maintainability | Scalability | Modularity  
- <br> <br>
+ <br>
 </p>
 
 ## 📚 Diagramming & Documentation  
