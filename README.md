@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
-
-<p align="center">
-🎓 3rd Year Honours BTech - Software Development @ Seneca Polytechnic <br>
-💼 Currently: Co-op as Information Technology Services Technologist at Seneca (Summer 2025)  
+<br>
+<p>
+🎓 3rd Year <b>Honours Bachelor of Technology - Software Development</b> @ Seneca Polytechnic <br>
+💼 Currently: Co-op as <b>Information Technology Services Technologist</b> at Seneca (Summer 2025)  
 </p>
- <br> <br>
+ <br> 
 
 
 <h2 align="center">💻 Languages</h2> 
@@ -24,6 +24,7 @@
 
 ## 🌐 Web Technologies  
 <p align="center">
+ <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -38,6 +39,7 @@
 
 
 ## 🎨 Other Technologies  
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white" />
@@ -50,6 +52,7 @@
 
 
 ## 🚀 Project Management & Methodologies  
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -79,6 +82,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <br>
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
