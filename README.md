@@ -115,7 +115,7 @@
  <br> 
 
 <h2 align="center"> 📫 Contact Me  </h2>
-<p align="center">
-- 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)   <br>
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)   <br>
-</p>
+
+- 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
+
