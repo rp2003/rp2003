@@ -96,7 +96,7 @@
 <p align="center">
 - 🏅 International Student Achievement Award (Seneca)   <br>
 - 🧩 Participated & organized multiple Hackathons   <br>
-- 🤝 Volunteered helping new students and promoting campus resources   <br>
+- 🤝 Volunteer at Guru Sikh Sabha   <br>
 </p>
  <br> 
 
