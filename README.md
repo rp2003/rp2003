@@ -37,7 +37,7 @@
  <br> <br>
 
 
-## 🎨 Other Technologies  
+<h2 align="center"> 🎨 Other Technologies  </h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -50,7 +50,7 @@
  <br> <br>
 
 
-## 🚀 Project Management & Methodologies  
+<h2 align="center">🚀 Project Management & Methodologies </h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
@@ -60,7 +60,7 @@
  <br> <br>
 
 
-## 🧠 Concepts & Methodologies  
+<h2 align="center"> 🧠 Concepts & Methodologies</h2>  
 <p align="center">
 - System Programming (Linux)<br>
 - REST API Development  <br>
@@ -70,7 +70,7 @@
  <br>
 </p>
 
-## 📚 Diagramming & Documentation 
+<h2 align="center">📚 Diagramming & Documentation </h2>
 <p align="center">
 - UML Class & Sequence Diagrams  <br>
 - Use Case & ER Diagrams  <br>
@@ -78,7 +78,7 @@
  </p>
  <br> <br>
 
-## 🧰 Tools & Software  
+<h2 align="center">🧰 Tools & Software  </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
@@ -92,12 +92,16 @@
  <br> <br>
 
 
-## 🏆 Achievements  
-- 🏅 International Student Achievement Award (Seneca)  
-- 🧩 Participated & organized **Hackathons**  
-- 🤝 Volunteered helping new students and promoting campus resources  
- <br> <br>
+<h2 align="center">🏆 Achievements  </h2>
+<p align="center">
+- 🏅 International Student Achievement Award (Seneca)   <br>
+- 🧩 Participated & organized multiple Hackathons   <br>
+- 🤝 Volunteered helping new students and promoting campus resources   <br>
+</p>
+ <br> 
 
-## 📫 Contact Me  
-- 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+<h2 align="center"> 📫 Contact Me  </h2>
+<p align="center">
+- 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)   <br>
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)   <br>
+</p>
