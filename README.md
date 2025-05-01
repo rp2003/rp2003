@@ -2,7 +2,8 @@
 <br>
 <p align="center">
 🎓 3rd Year <b>Honours Bachelor of Technology - Software Development</b> @ Seneca Polytechnic <br>
-💼 Currently: Co-op as <b>Information Technology Services Technologist</b> at Seneca (Summer 2025)  
+💼 Currently: Co-op as <b>Information Technology Services Technologist</b> at Seneca (Summer 2025) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)   
 </p>
  <br> 
 
@@ -36,6 +37,19 @@
 </p>
  <br> <br>
 
+<h2 align="center">☁️ Cloud & DevOps</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+ <br>
+  <img src="https://img.shields.io/badge/Amazon_Lambda-F8982C?style=for-the-badge&logo=amazonlambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF6600?style=for-the-badge&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Cognito-8C4FFF?style=for-the-badge&logo=amazoncognito&logoColor=white" />
+</p>
 
 <h2 align="center"> 🎨 Other Technologies  </h2>
 <br>
