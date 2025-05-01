@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
 <br>
-<p>
+<p align="center">
 🎓 3rd Year <b>Honours Bachelor of Technology - Software Development</b> @ Seneca Polytechnic <br>
 💼 Currently: Co-op as <b>Information Technology Services Technologist</b> at Seneca (Summer 2025)  
 </p>
@@ -62,7 +62,7 @@
 
 ## 🧠 Concepts & Methodologies  
 <p align="center">
-* System Programming (Linux)<br>
+- System Programming (Linux)<br>
 - REST API Development  <br>
 - Responsive Design & UI Principles  <br>
 - Unit & Integration Testing  <br>
@@ -70,10 +70,12 @@
  <br>
 </p>
 
-## 📚 Diagramming & Documentation  
-- UML Class & Sequence Diagrams  
-- Use Case & ER Diagrams  
-- Wireframing, User Flows, Mockups (Figma)  
+## 📚 Diagramming & Documentation 
+<p align="center">
+- UML Class & Sequence Diagrams  <br>
+- Use Case & ER Diagrams  <br>
+- Wireframing, User Flows, Mockups (Figma) 
+ </p>
  <br> <br>
 
 ## 🧰 Tools & Software  
