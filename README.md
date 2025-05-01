@@ -3,8 +3,8 @@
 <p align="center">
 🎓 3rd Year <b>Honours Bachelor of Technology - Software Development</b> @ Seneca Polytechnic <br>
 💼 Currently: Co-op as <b>Information Technology Services Technologist</b> at Seneca (Summer 2025) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)   
 </p>
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
  <br> 
 
 
