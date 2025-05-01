@@ -61,13 +61,14 @@
 
 
 ## 🧠 Concepts & Methodologies  
+<p align="center">
 - System Programming (Linux)
 - REST API Development  
 - Responsive Design & UI Principles  
 - Unit & Integration Testing  
 - Maintainability | Scalability | Modularity  
  <br> <br>
-
+</p>
 
 ## 📚 Diagramming & Documentation  
 - UML Class & Sequence Diagrams  
