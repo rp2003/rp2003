@@ -4,7 +4,7 @@
 🎓 3rd Year Honours BTech - Software Development @ Seneca Polytechnic <br>
 💼 Currently: Co-op as Information Technology Services Technologist at Seneca (Summer 2025)  
 </p>
-
+ <br> <br>
 
 
 ## 💻 Languages  
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -40,10 +41,11 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
-
+ <br> <br>
 
 
 ## 🚀 Project Management & Methodologies  
@@ -61,14 +63,14 @@
 - Responsive Design & UI Principles  
 - Unit & Integration Testing  
 - Maintainability | Scalability | Modularity  
-
+ <br> <br>
 
 
 ## 📚 Diagramming & Documentation  
 - UML Class & Sequence Diagrams  
 - Use Case & ER Diagrams  
 - Wireframing, User Flows, Mockups (Figma)  
-
+ <br> <br>
 
 ## 🧰 Tools & Software  
 <p align="center">
@@ -80,14 +82,14 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
+ <br> <br>
 
 
 ## 🏆 Achievements  
 - 🏅 International Student Achievement Award (Seneca)  
 - 🧩 Participated & organized **Hackathons**  
 - 🤝 Volunteered helping new students and promoting campus resources  
-
+ <br> <br>
 
 ## 📫 Contact Me  
 - 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)  
