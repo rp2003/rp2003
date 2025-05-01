@@ -3,10 +3,8 @@
 <p align="center">
   I am currently completing a Co-op as an <strong>Information Technology Services Technologist</strong> at <strong>Seneca Polytechnic</strong> for the Summer 2025 term.<br>
   I'm in my 3rd year of the <strong>Honours Bachelor of Technology - Software Development</strong> program at Seneca Polytechnic.<br><br>
-  I’m also currently volunteering for the <strong>HackTheBrain Hackathon</strong> as part of the <strong>Partner Student Experience team</strong> to help create a meaningful and engaging experience for participants.<br><br>
-  I am passionate about <strong>cloud technologies</strong>, <strong>system-level programming</strong>, and building <strong>efficient web and software solutions</strong>.<br>
-  I have hands-on experience working with various <strong>AWS services</strong> like <em>EC2</em>, <em>S3</em>, <em>RDS</em>, <em>Lambda</em>, <em>ECS</em>, <em>CloudWatch</em>, and <em>Cognito</em>.<br>
-  I’m always eager to explore new technologies and grow as a developer!
+  I’m also currently volunteering for the <strong>HackTheBrain Hackathon</strong> as part of the <strong>Partner Student Experience team</strong> to help create a meaningful and engaging experience for participants.<br>
+  I’m always eager to explore new technologies and grow as a developer!<br>
 </p>
 
  <br> 
