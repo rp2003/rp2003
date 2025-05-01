@@ -1,18 +1,56 @@
-## Hi there 👋
+# Hi there 👋, I'm Riya!
 
-<!--
-**rp2003/rp2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working as an **Information Technology Services Technologist (Co-op)** at **Seneca Polytechnic** for the **Summer 2025** term.  
+I have completed my **3rd year** of the **Honours Bachelor of Technology - Software Development** program at **Seneca Polytechnic**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages
+C & C++ | JavaScript | Python | SQL | HTML & CSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rp2003&theme=dark&show_icons=true)
+---
+
+## 🌐 Web Technologies
+Node.js | Express.js | React.js | MongoDB | MySQL | Bootstrap | Tailwind CSS
+
+---
+
+## 🎨 Other Technologies
+Next.js | Vite | jQuery | EJS | Git & GitHub
+
+---
+
+## 🚀 Project Management & Methodologies
+JIRA | Scrum/Agile | GitFlow 
+
+---
+
+## 🧠 Concepts & Methodologies
+System Programming (Linux) | REST APIs | Responsive Design | Testing (Unit/Integration) |  
+Maintainability | Modularity | Scalability | Error Handling
+
+---
+
+## 📚 Diagramming & Documentation
+Use Case Diagrams | UML Class Diagrams | Sequence Diagrams | ER Diagrams  
+Wireframing | Mockups | User Flows
+
+---
+
+## 🧰 Software & Tools
+VS Code | Visual Studio | Figma | Postman | MongoDB Compass | Canva | MySQL Workbench
+
+---
+
+## 🏆 Achievements
+- 🥇 **International Student Achievement Award**, Seneca Polytechnic  
+- 🎯 Organized & participated in multiple **Hackathons**  
+- 📚 Peer Mentor & active volunteer supporting new students
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [22riyapuri@gmail.com](mailto:22riyapuri@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/riiya/)  
+
+
