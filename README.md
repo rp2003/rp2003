@@ -3,7 +3,7 @@
 I’m currently working as an **Information Technology Services Technologist (Co-op)** at **Seneca Polytechnic** for the **Summer 2025** term.  
 I have completed my **3rd year** of the **Honours Bachelor of Technology - Software Development** program at **Seneca Polytechnic**.
 
----
+-
 
 ## 💻 Languages
 C & C++ | JavaScript | Python | SQL | HTML & CSS
