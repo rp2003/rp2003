@@ -3,7 +3,6 @@
 <ul>
     <li>I am currently completing a Co-op as an <strong>Information Technology Services Technologist</strong> at <strong>Seneca Polytechnic</strong> for the Summer 2025 term.</li>
     <li>I'm in my 3rd year of the <strong>Honours Bachelor of Technology - Software Development</strong> program at Seneca Polytechnic.</li>
-    <li>I’m currently volunteering for the <strong>HackTheBrain Hackathon</strong> as part of the <strong>Partner Student Experience team</strong> to help create a meaningful and engaging experience for participants.</li>
     <li>I’m always eager to explore new technologies and grow as a developer!</li>
   </ul>
  <br> 
