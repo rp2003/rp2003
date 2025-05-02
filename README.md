@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
 <br>
-<ul>
+<p>
+<ul align="center">
     <li>I am currently completing a Co-op as an <strong>Information Technology Services Technologist</strong> at <strong>Seneca Polytechnic</strong> for the Summer 2025 term.</li>
     <li>I'm in my 3rd year of the <strong>Honours Bachelor of Technology - Software Development</strong> program at Seneca Polytechnic.</li>
     <li>I’m always eager to explore new technologies and grow as a developer!</li>
   </ul>
+  </p>
  <br> 
 
 
