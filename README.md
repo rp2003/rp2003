@@ -1,29 +1,3 @@
-<style>
-  body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-
-  a {
-    color: #90caf9;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  h1, h2 {
-    color: #f0f0f0;
-  }
-
-  p {
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-</style>
-
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
 <br>
 <h2 align="center">About me 👩‍💻</h2> 
