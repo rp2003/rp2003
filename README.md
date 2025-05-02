@@ -119,5 +119,5 @@
 <h2 align="center"> 📫 Contact Me  </h2>
 
 - 📧 [riya2@myseneca.ca](mailto:riya2@myseneca.ca)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/riiya/) 
 
