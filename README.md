@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
 <br>
-<p align="center">
+<p>
 I am currently completing a Co-op as an <strong>Information Technology Services Technologist</strong> at <strong>Seneca Polytechnic</strong> for the Summer 2025 term.
 I'm in my 3rd year of the <strong>Honours Bachelor of Technology - Software Development</strong> program at Seneca Polytechnic.
 I’m always eager to explore new technologies and grow as a developer!
