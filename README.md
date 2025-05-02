@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Riya!</h1>
 <br>
 <p>
-🚀Completing Co-op as Information Technology Services Technologist at Seneca Polytechnic.
+🚀Completing Co-op as Information Technology Services Technologist at Seneca Polytechnic.<br>
 👩‍💻3rd year Student of Honours Bachelor of Technology - Software Development at Seneca Polytechnic.<br> 
 🌐 Eager to explore new technologies and grow as a developer!
   </p>
